@@ -1,0 +1,19 @@
+ip_address,name
+10.1.3.50,NVR
+10.1.3.65 ,Pantry
+10.1.3.63 ,Parking
+10.1.3.52 ,FF Passage
+10.1.3.66 ,FF coroider
+10.1.3.85 ,Development
+10.1.3.62 ,GF Passage
+10.1.3.64 ,Entrance
+10.1.3.61, FF Entrance
+10.1.3.60 ,Stair case
+10.1.3.56 ,Meeting Room 1
+10.1.3.53 ,Reception
+10.1.3.54 ,Accounts
+10.1.3.59 ,NOC Room
+10.1.3.58 ,Stores
+10.1.3.57 ,Coodinator room 1
+10.1.3.55 ,Coordinator Room
+10.1.3.67 ,Network & Server room
